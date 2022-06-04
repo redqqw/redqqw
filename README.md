@@ -16,6 +16,6 @@
 <div>
     <a href="https://www.youtube.com/channel/UCG5Th_NDQbX-xhIV1D7EIEw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    	<a href="https://www.twitch.tv/redqqw" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/YkN4Ugd4NE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   <a href="https://discord.gg/rdtquBzmRp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
     
