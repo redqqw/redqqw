@@ -1,21 +1,63 @@
-### Olá! eu sou o redqqw
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Ei! É bom te ver por aqui.
+</h1>
 
- <div>
-  <a href="https://github.com/redqqw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redqqw&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redqqw&layout=compact&langs_count=7&theme=github_dark"/
-</div>
-    <div>
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </div>
-    
-##
-    
-<div>
-    <a href="https://www.youtube.com/channel/UCG5Th_NDQbX-xhIV1D7EIEw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-   	<a href="https://www.twitch.tv/redqqw" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/rdtquBzmRp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
-    
+<p>
+  Bem vindo a minha pagina!</br>
+  Me chamo Red, sou desenvolvedor Front-End e estudando para me tornar um Full-Stack,</br>
+  Atualmente moro em <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Salvador, Brasil</b>. </p>
+
+<h3>
+  Meus conhecimentos - Front-End
+</h3>
+
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+<h3>
+  Cursos e Certificados
+</h3>
+
+<ul>
+  <li>
+    <a href="https://cdn.discordapp.com/attachments/864484865663827969/1015156752465022977/unknown.png">
+      <b>
+        📃 Fundação Bradesco - Atendimento ao Público
+      </b>
+    </a>
+    <br/>
+  </li>
+</ul>
+
+<h3>
+  Meus Repositorios
+</h3>
+
+<ul>
+  <li>
+    <a href="https://github.com/redqqw/Login-page">
+      <b>
+        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />
+        Página de Login
+      </b>
+    </a>
+    <br/>
+    <i>
+      Página feito em uma aula..
+    </i>
+  </li>
+</ul>
+
+<h3>
+  Onde você pode me encontrar
+</h3>
+
+<p>
+  <a href="https://github.com/redqqw target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+</p>
