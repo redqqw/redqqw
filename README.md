@@ -24,7 +24,7 @@
 
 <ul>
   <li>
-    <a href="https://cdn.discordapp.com/attachments/864484865663827969/1015156752465022977/unknown.png">
+<!--     <a href="https://cdn.discordapp.com/attachments/864484865663827969/1015156752465022977/unknown.png"> -->
       <b>
         📃 Fundação Bradesco - Atendimento ao Público
       </b>
@@ -41,7 +41,6 @@
   <li>
     <a href="https://github.com/redqqw/Login-page">
       <b>
-        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />
         Página de Login
       </b>
     </a>
